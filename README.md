@@ -58,8 +58,5 @@ Analyzing and plotting feature importances from the Random Forest model.
 ## Conclusion
 Machine learning techniques effectively enhance credit scoring models. The study emphasizes the importance of data preprocessing, model selection, and evaluation. Future work could explore additional algorithms and feature engineering to further improve predictive performance.
 
-## Usage
-Clone the repository and follow the instructions in the Jupyter notebooks to replicate the analysis. Ensure all dependencies are installed as per the `requirements.txt` file. 
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
